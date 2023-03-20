@@ -3,8 +3,7 @@
 
 ## Table of Contents
 <ul>
-<li><a href="#intro">Introduction</a></li>
-<li><a href="#discussion"> Visualization and Discussion</a></li>   
+<li><a href="#intro">Introduction</a></li>  
 <li><a href="#conclusion">Recommendations and Conclusion</a></li>
 <li><a href="#references">References</a></li>
 </ul>
