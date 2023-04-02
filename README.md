@@ -53,6 +53,6 @@ These steps, I'm sure, will increase per capita supply of food and the overall G
 - https://www.actionagainsthunger.org/the-hunger-crisis/world-hunger-facts/#:~:text=Global%20hunger%20crisis%20in%202023,and%20the%20COVID%2D19%20pandemic.
 - https://www.schemecolor.com/green-scale.php
 
-Read the blog post for this project [here](https://docs.google.com/document/d/165mW0Dklx5PmB5j6-NJQur_5e0oBco1o/edit?usp=share_link&ouid=111491279088160291753&rtpof=true&sd=true).
+> Read the blog post for this project [here](https://docs.google.com/document/d/165mW0Dklx5PmB5j6-NJQur_5e0oBco1o/edit?usp=share_link&ouid=111491279088160291753&rtpof=true&sd=true).
 
 [Presentation Slides](http://localhost:8888/view/African%20Food%20Project/Food_Production_in_Africa.slides.html)
