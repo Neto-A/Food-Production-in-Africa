@@ -5,6 +5,7 @@
 <ul>
 <li><a href="#intro">Introduction</a></li>  
 <li><a href="#conclusion">Recommendations and Conclusion</a></li>
+
 <li><a href="#references">References</a></li>
 </ul>
 
@@ -29,6 +30,11 @@ There were two datasets provided for this project. The first one covered the fig
 1. Country: The name of the country.
 2. Year: The year of supply.
 3. Value: The quantity supplied, measured in kilocalories per person per day (kcal/person/day).
+
+## Visualization.
+This was done using Python and PowerBI. Interact with the PowerBI visualization [here](https://app.powerbi.com/view?r=eyJrIjoiMWIyM2Y5YWEtNTczOC00MDYxLWJkYTYtZDc3ODkwMzhkMjcyIiwidCI6ImEzMjNmYmMzLTM3NzUtNDNhMi05MWYxLTA4YWY1ZTA1MTVhZSJ9).
+![image](https://user-images.githubusercontent.com/109004071/232544336-91408677-56c9-443e-b243-0981c3a5118f.png)
+
 
 <a id='conclusion'></a>
 ## Recommendations & Conclusion.
